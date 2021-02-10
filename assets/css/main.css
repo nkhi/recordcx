@@ -429,7 +429,7 @@ ol {
 
 ul {
   font-family: 'Inter', sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   list-style: disc;
   margin: 0 0 2em 0;
   padding-left: 1em; }
@@ -576,7 +576,7 @@ input[type="email"],
 select,
 textarea {
   font-family: 'Inter', sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   -moz-appearance: none;
   -webkit-appearance: none;
   -ms-appearance: none;
@@ -750,7 +750,7 @@ button,
   color: #ffffff !important;
   cursor: pointer;
   display: inline-block;
-  font-weight: 500;
+  font-weight: 400;
   height: 2.75em;
   line-height: 2.75em;
   padding: 0 1.125em;
